@@ -1,0 +1,17 @@
+# Entorno Virtual
+venv/
+.venv/
+env/
+bin/
+lib/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.class
+
+# Mac OS específicos
+.DS_Store
+
+# Variables de entorno (si llegas a usar .env para claves de Mongo)
+.env
