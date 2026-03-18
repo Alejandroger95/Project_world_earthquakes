@@ -1,6 +1,7 @@
 # Project World Earthquakes 🌍🌋
 
 Este proyecto descarga datos de terremotos a nivel mundial usando una API y los almacena en una base de datos **MongoDB**.
+El analisis se desarrollo en MongoDB, debido a que es un entregable para el Master de Data science en la Universidad Complutense de MAdrid.
 
 ## Características del Script
 * **Segmentación Anual:** Descarga datos año por año para optimizar el uso de memoria y respetar los límites de la API.
